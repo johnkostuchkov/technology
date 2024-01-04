@@ -1,0 +1,1041 @@
+html, body {
+    margin: 0 auto;
+}
+a {
+    text-decoration: none;
+    color: #fff;
+}
+.container {
+    width: 1174px;
+    margin-left: 375px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.list li {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    text-transform: lowercase;
+    color: #FFF;
+}
+.list {
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    width: 376px;
+    padding-left: 0px;
+}
+.header-top {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.site a {
+    text-decoration: none;
+}
+header {
+    background-image: url(/image/Rectangle\ 8.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 1080px;
+    padding-bottom: 105px;
+}
+.contacts-header {
+    background-image: url(/image/fon.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.cont-name {
+    font-family: 'Orbitron', sans-serif;
+    font-weight: 400;
+    font-size: 70px;
+    line-height: 80.57px;
+    color: #fff;
+    padding-top: 276px;
+    padding-bottom: 56px;
+    padding-right: 160px;
+}
+.ball {
+    position: absolute;
+    left: 865px;
+    top: 235px;
+    padding-bottom: 63px;
+}
+.logo {
+    padding-right: 333px;
+}
+.site {
+    padding-left: 265px;
+    width: 136px;
+    display: flex;
+    justify-content: space-between;
+}
+.name {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: lowercase;
+    color: #FFF;
+    margin: 230px 0px 10px 0px;
+}
+.name2 {
+    color: #13d4b1;
+    font-size: 29px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 65px;
+    letter-spacing: 2px;
+    text-transform: lowercase;
+    font-family: 'Orbitron', sans-serif;
+    margin: 10px 0px;
+}
+.dopText {
+    color: #C7E1E1;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 1.1px;
+    text-transform: lowercase;
+    border-left: 3px solid #fff;
+    padding-left: 17px;
+    width: 405px;
+    margin-bottom: 74px;
+}
+.header-button {
+    padding: 28px 70px;
+    background-image: url(/image/Vector\ 1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #FFF;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: capitalize;
+    text-decoration: none;
+    margin-right: 19px;
+}
+.header-text {
+    color: #D6E5E3;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration: none;
+    text-transform: capitalize;
+    border-bottom: #D6E5E3 1px solid;
+}
+.header-right {
+    position: absolute;
+    right: 36px;
+    top: 298px;
+}
+.header-left {
+    margin-right: 720px;
+}
+.about {
+    border-top: #5de9e3 3px solid;
+    background-image: url(/image/Rectangle\ 7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 102px;
+}
+.about-name {
+    display: flex;
+}
+.about-text {
+    font-family: 'Orbitron', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    color: #fff;
+}
+.why {
+    background-image: url(/image/Rectangle\ 7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-top: #5de9e3 3px solid;
+    padding-top: 74px;
+}
+.why-add {
+    background-image: url(/image/Rectangle\ 7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 74px;
+}
+.why-name {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.why1 {
+    width: 904px;
+    height: 125px;
+}
+.green-name {
+    color: #2dffd9;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: lowercase;
+    padding-right: 24px;
+    margin: 0;
+}
+.white-name {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: lowercase;
+    color: #fff;
+    padding-right: 24px;
+    margin: 0;
+}
+.why-text {
+    font-family: 'Orbitron', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    color: #fff;
+    padding-top: 111px;
+}
+.why-flex {
+    display: flex;
+}
+.why2 {
+    border: none;
+}
+.why-text2 {
+    padding-top: 35px;
+    text-align: center;
+}
+.wir {
+    background-image: url(/image/Vector\ 4.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Orbitron', sans-serif;
+    color: #fff;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    text-align: center;
+    width: 505px;
+    height: 88px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 63px;
+}
+.wir-name {
+    border: none;
+    
+}
+.res {
+    background-image: url(/image/Rectangle\ 7.png);
+    background-size: cover;
+    border-top: #5de9e3 5px solid;
+    padding-top: 94px;
+}
+.res-text {
+    font-family: 'Orbitron', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    color: #fff;
+    padding-bottom: 67px;
+}
+.res-top {
+    display: flex;
+}
+.res-bottom {
+    height: 555px;
+    margin-bottom: 89px;
+}
+.res-table1 {
+    position: relative;
+    top: -230px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.res-button {
+    background-image: url(/image/Vector\ 1\ \(1\).png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Orbitron', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23.88px;
+    text-align: center;
+    color: #fff;
+    text-decoration: none;
+    width: 315px;
+    height: 56px;
+    margin-top: 47px;
+    margin-bottom: 58px;
+}
+.res-table2 {
+    position: relative;
+    top: -160px;
+    display: flex;
+    justify-content: center;
+}
+.plan {
+    background-image: url(/image/armaturaplus_the_design_of_the_website_of_a_company_that_deals__9ff46a49-252d-479e-abb9-53b0067786ad\ 1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #081216;
+}
+.plan-name {
+    display: flex;
+    padding-top: 65px;
+    padding-bottom: 50px;
+}
+.plan-text {
+    font-family: 'Orbitron', sans-serif;
+    font-weight: 400px;
+    font-size: 20px;
+    line-height: 30px;
+    color: #fff;
+    padding-bottom: 51px;
+    height: 590px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.invite {
+    background-image: url(/image/back.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #081216;
+}
+.invite-name {
+    display: flex;
+    padding-top: 186px;
+    padding-bottom: 47px;
+}
+.invite-block {
+    display: flex;
+}
+.in-button {
+    background-image: url(/image/Vector\ 1\ \(1\).png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Orbitron', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23.88px;
+    text-align: center;
+    width: 315px;
+    height: 56px;
+    margin-left: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.in-button a {
+    text-decoration: none;
+    color: #fff;
+}
+.invite-button {
+    display: flex;
+    align-items: center;
+    margin-bottom: 27px;
+}
+.invite-buttons {
+    margin-bottom: 155px;
+}
+footer {
+    background-color: #00191f;
+    border-top: #5de9e3 3px solid;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.footer-text {
+    padding-top: 20px;
+    padding-bottom: 15px;
+    font-family: 'Orbitron', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23.88px;
+    text-align: center;
+    color: #115049;
+}
+.footer-mes {
+    width: 136px;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 25px;
+}
+.contact-info {
+    font-family: 'Orbitron', sans-serif;
+    font-weight: 400px;
+    font-size: 24px;
+    line-height: 28.66px;
+    color: #fff;
+}
+.contact-mes {
+    display: flex;
+    align-items: center;
+}
+.contact-image {
+    padding-right: 19px;
+}
+.min-img {
+    padding-left: 8px;
+    padding-right: 27px;
+}
+.footer-cont {
+    background-color: #02282e;
+}
+.partner-header {
+    background-image: url(/image/armaturaplus_a_very_calm_website_of_a_company_that_deals_with_n_034920e6-1b48-4c07-b148-175b0b5e8df8\ 2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #0f4647;
+    border-bottom: #5de9e3 3px solid;
+}
+.partner-name {
+    font-family: 'Orbitron', sans-serif;
+    font-weight: 400;
+    font-size: 70px;
+    line-height: 80.57px;
+    color: #fff;
+    width: 733px;
+    padding-top: 164px;
+    padding-bottom: 40px;
+}
+.partner-text {
+    font-family: 'Orbitron', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    color: #fff;
+    padding-bottom: 35px;
+    width: 646px;
+}
+.partner-ball {
+    position: relative;
+    right: -202px;
+    bottom: 320px;
+}
+.bottom {
+    position: relative;
+    left: -225px;
+    height: 1000px
+}
+.green-text {
+    font-family: 'Orbitron', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    color: #3cffdc;
+    margin: 0;
+}
+.white-text {
+    font-family: 'Orbitron', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    color: #fff;
+    margin: 0;
+}
+.partner-center {
+    background-color: #122526;
+}
+.partner-block {
+    display: flex;
+    align-items: center;
+}
+.partner-mail {
+    background-image: url(/image/Vector\ 2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 75px;
+    width: 313px;
+    font-family: 'Orbitron', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23.88px;
+}
+.center-text {
+    padding: 107px 145px 100px 0px;
+}
+.partner-bottom {
+    background-image: url(/image/armaturaplus_a_very_calm_website_of_a_company_that_deals_with_n_5808bbc4-aedd-482d-a54b-ecb19d5f5269\ 1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #207f79;
+    display: flex;
+    border-top: #5de9e3 3px solid;
+}
+.partner-cards {
+    display: flex;
+}
+.bottom-card {
+    background-image: url(/image/Vector\ 5.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 555px;
+    margin-right: 45px;
+    margin-left: 45px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 153px;
+    margin-top: 153px;
+}
+.card-name {
+    font-family: 'Orbitron', sans-serif;
+    font-weight: 400;
+    font-size: 30px;
+    list-style: 34.53px;
+    text-align: center;
+    color: #fff;
+    padding-top: 22px;
+}
+.card-text {
+    text-align: center;
+    padding-bottom: 32px;
+    width: 420px;
+}
+.card-text1 {
+    text-align: center;
+    padding-bottom: 10px;
+}
+.card-mail {
+    margin-bottom: 30px;
+}
+.footer-partner {
+    background-color: #0f3a3c;
+}
+.bot-name {
+    display: flex;
+}
+.bot-white-name {
+    font-family: 'Orbitron', sans-serif;
+    font-weight: 400;
+    font-size: 70px;
+    line-height: 80.57px;
+    color: #fff;
+    margin-right: 35px;
+}
+.bot-green-name {
+    font-family: 'Orbitron', sans-serif;
+    font-weight: 400;
+    font-size: 70px;
+    line-height: 80.57px;
+    color: #45ffdd;
+}
+.bot-image {
+    position: absolute;
+    top: 112px;
+}
+.border {
+    border-top: #5de9e3 solid 3px;
+    margin-top: 45px;
+    margin-bottom: 87px;
+}
+.bot-header {
+    padding-bottom: 0px;
+}
+.bot-header-button {
+    padding: 28px 90px;
+    background-image: url(/image/Vector\ 1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #FFF;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: capitalize;
+    text-decoration: none;
+    margin-right: 19px;
+}
+.bot-text {
+    padding-bottom: 89px;
+}
+.follow {
+    background-color: #0a1418;
+    border-top: #5de9e3 3px solid;
+}
+.follow-button {
+    background-image: url(/image/Vector\ 3.png);
+    width: 309px;
+    height: 58px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 405px;
+}
+.follow-block {
+    display: flex;
+    padding: 68px 0px;
+}
+.news-header {
+    background-color: #133338;
+    padding-bottom: 0px;
+}
+.news-image {
+    position: absolute;
+    top: 426px;
+    right: 0px;
+}
+.news-text {
+    width: 500px;
+}
+.table-table1 {
+    padding-bottom: 40px;
+}
+
+@media (max-width: 1024px) {
+    .container {
+        max-width: 1009px;
+        margin-left: 0px;
+        padding-left: 15px;
+    }
+    .logo {
+        padding-right: 120px;
+    }
+    .site {
+        padding-left: 100px;
+    }
+    .header-left {
+        margin-right: 350px;
+    }
+    .header-right img {
+        width: 70%;
+        
+    }
+    .header-right {
+        position: absolute;
+        top: 715px;
+        left: 440px;
+        width: 580px;
+    }
+    header {
+        padding-bottom: 0px;
+    }
+    h2, .partner-name {
+        font-size: 40px;
+    }
+    p, a, li {
+        font-size: 16px;
+        max-width: 1000px;
+    }
+    .green-name {
+        font-size: 40px;
+    }
+    .white-name {
+        font-size: 40px;
+    }
+    .name {
+        font-size: 60px;
+    }
+    .res-robot img {
+        width: 80%;
+    }
+    .res-table1 {
+        top: -100px;
+    }
+    .res-table1 img {
+        width: 80%;
+    }
+    .res-table2 img {
+        width: 80%;
+    }
+    .res-table2 {
+        top: -70px;
+    }
+    .why-name {
+        justify-content: center;
+    }
+    .partner-ball img {
+        width: 0px;
+    }
+    .partner-header {
+        height: 900px;
+    }
+    .bottom-card {
+        margin-bottom: 30px;
+        margin-top: 70px;
+    }
+    .partner-cards {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .ball img {
+        width: 85%;
+    }
+    .bot-image {
+        width: 0px;
+    }
+    .bot-header {
+        height: 800px;
+    }
+    .follow-block {
+        padding: 60px 0px;
+    }
+    .follow-button {
+        margin-left: 190px;
+    }
+    .ball {
+        left: 520px;
+        top: 280px;
+    }
+    .news-header {
+        height: 780px;
+    }
+    .news-image {
+        width: 0px;
+    }
+    .bot-header-button {
+        padding: 28px 87px;
+    }
+    .bottom {
+        left: 0px;
+    }
+    .border {
+        margin-top: 0px;
+        margin-bottom: 70px;
+    }
+    body {
+        overflow-x: hidden;
+    }
+}
+@media (max-width: 480px) {
+    .container {
+        max-width: 480px;
+    }
+    .header-right img {
+        width: 0px;
+    }
+    .header-left {
+        display: flex;
+        flex-wrap: wrap;
+        margin-right: 0px;
+    }
+    .list {
+        width: 200px;
+    }
+    h1 {
+        font-size: 24px;
+    }
+    h2 {
+        font-size: 20px;
+    }
+    p, a, li {
+        font-size: 14px;
+        max-width: 450px;
+    }
+    .logo {
+        padding-right: 20px;
+    }
+    .site {
+        padding-left: 20px;
+        width: 115px;
+    }
+    .header-text {
+        height: 22px;
+    }
+    .why1 {
+        display: flex;
+        flex-wrap: wrap;
+        width: 450px;
+    }
+    .why-pic img {
+        width: 0px;
+    }
+    .why-text {
+        padding-top: 0px;
+    }
+    .why2 {
+        flex-wrap: wrap;
+    }
+    .why2 h2 {
+        text-align: center;
+    }
+    .wir {
+        width: 414px;
+        height: 70px;
+    }
+    .res-robot img {
+        width: 0px;
+    }
+    .res-table1 {
+        top: -60px;
+    }
+    .res-button {
+        width: 280px;
+        height: 50px;
+    }
+    .res-bottom {
+        height: 420px;
+        margin-bottom: 0px;
+    }
+    .invite-image img {
+        width: 0px;
+    }
+    .invite-name {
+        padding-top: 240px;
+    }
+    .in-button {
+        width: 310px;
+    }
+    body {
+        overflow-x: hidden;
+    }
+    .name {
+        margin-top: 80px;
+    }
+    .name, .bot-green-name, .bot-white-name {
+        font-size: 50px;
+    }
+    header {
+        height: 700px;
+    }
+    .border {
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+    .bot-header {
+        height: 750px;
+    }
+    .follow-block {
+        flex-wrap: wrap;
+    }
+    .follow-button {
+        margin-left: 0px;
+        margin-top: 30px;
+    }
+    .ball img {
+        width: 0px;
+    }
+    .cont-name {
+        padding-right: 0px;
+        padding-top: 100px;
+    }
+    .cont-name {
+        font-size: 60px;
+    }
+    .dopname {
+        padding-top: 35px;
+    }
+    .news-header {
+        height: 660px;
+    }
+    .res-table1 img, .res-table2 img {
+        width: 440px;
+    }
+    .bottom {
+        left: 82px;
+    }
+    .partner-block {
+        flex-wrap: wrap;
+        flex-direction: column;
+        padding-right: 30px;
+        padding-bottom: 30px;
+    }
+    .center-text {
+        padding: 30px 0px 30px 0px;
+        text-align: center;
+    }
+    .card-text {
+        padding-bottom: 26px;
+    }
+    .bottom-card {
+        margin: 30px 0px;
+        width: 450px;
+        height: 721px;
+    }
+    .partner-cards {
+        padding-right: 15px;
+    }
+    .card-name {
+        padding-top: 0px;
+    }
+    .partner-name {
+        width: 460px;
+    }
+    .header-button {
+        padding: 20px 49px;
+        font-size: 14px;
+    }
+    .header-text {
+        font-size: 12px;
+    }
+}
+@media (max-width: 360px) {
+    .header-top a {
+        display: flex;
+        align-items: center;
+    }
+    .logo {
+        width: 60%;
+    }
+    .site a img {
+        width: 60%;
+    }
+    .site {
+        width: 101px;
+        padding-left: 10px;
+    }
+    .name {
+        font-size: 40px;
+    }
+    .name2 {
+        font-size: 20px;
+    }
+    .dopText {
+        font-size: 14px;
+        padding-left: 10px;
+        width: 297px;
+        line-height: 24px;
+    }
+    .header-button {
+        padding: 17px 39px;
+        font-size: 14px;
+    }
+    .container {
+        max-width: 345px;
+    }
+    .header-text {
+        height: 16px;
+        font-size: 12px;
+    }
+    .white-name, .green-name {
+        font-size: 28px;
+        padding-right: 18px;
+    }
+    .about {
+        padding-top: 30px;
+    }
+    .why-name {
+        display: flex;
+        flex-direction: column;
+    }
+    p {
+        font-size: 12px;
+    }
+    .wir {
+        font-size: 12px;
+        width: 326px;
+        height: 57px;
+    }
+    .res-table1 img, .res-table2 img {
+        width: 330px;
+    }
+    .res-button {
+        font-size: 12px;
+        width: 195px;
+        height: 35px;
+    }
+    .in-button {
+        width: 222px;
+        height: 40px;
+    }
+    .invite-logo img {
+        width: 80%;
+    }
+    .invite-buttons {
+        margin-bottom: 50px;
+    }
+    .footer-text p {
+        font-size: 10px;
+    }
+    .footer-mes a img {
+        width: 80%;
+    }
+    .invite-name {
+        padding-top: 250px;
+        justify-content: center;
+    }
+    .list li a {
+        font-size: 11px;
+    }
+    .bot-green-name, .bot-white-name {
+        font-size: 40px;
+        margin-right: 15px;
+    }
+    .green-text, .white-text {
+        font-size: 12px;
+    }
+    .bot-text {
+        padding-bottom: 28px;
+    }
+    .bot-header-button {
+        padding: 15px 43px;
+        font-size: 14px;
+    }
+    .bot-header {
+        height: 600px;
+    }
+    .cont-name {
+        font-size: 40px;
+    }
+    .dopname {
+        padding-top: 0px;
+    }
+    .partner-name {
+        font-size: 30px;
+        width: 340px;
+        padding-top: 72px;
+    }
+    p {
+        max-width: 330px;
+    }
+    .contacts-name {
+        width: 330px;
+    }
+    .left {
+        width: 515px;
+    }
+    .bottom-card {
+        width: 319px;
+        height: 440px;
+    }
+    .bottom-card img {
+        width: 60%;
+    }
+    .card-name {
+        font-size: 20px;
+        margin-bottom: 0px;
+    }
+    .card-text {
+        width: 305px;
+        padding-bottom: 0px;
+    }
+    .partner-mail {
+        width: 195px;
+        height: 47px;
+    }
+    body {
+        overflow-x: hidden;
+    }
+}
